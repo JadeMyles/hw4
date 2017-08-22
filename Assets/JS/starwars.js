@@ -8,28 +8,28 @@ $(document).ready(function() {
       name: "Obi-Wan Kenobi",
       health: 120,
       attack: 8,
-      imageUrl: "assets/images/obi-wan.jpg",
+      imageUrl: "https://github.com/JadeMyles/hw4/blob/master/Assets/Images/obi-wan.jpg?raw=true",
       enemyAttackBack: 15
     },
     "Luke Skywalker": {
       name: "Luke Skywalker",
       health: 100,
       attack: 14,
-      imageUrl: "assets/images/luke-skywalker.jpg",
+      imageUrl: "https://github.com/JadeMyles/hw4/blob/master/Assets/Images/luke-skywalker.jpg?raw=true",
       enemyAttackBack: 5
     },
     "Darth Sidious": {
       name: "Darth Sidious",
       health: 150,
       attack: 8,
-      imageUrl: "assets/images/darth-sidious.png",
+      imageUrl: "https://github.com/JadeMyles/hw4/blob/master/Assets/Images/darth-sidious.png?raw=true",
       enemyAttackBack: 20
     },
     "Darth Maul": {
       name: "Darth Maul",
       health: 180,
       attack: 7,
-      imageUrl: "assets/images/darth-maul.jpg",
+      imageUrl: "https://github.com/JadeMyles/hw4/blob/master/Assets/Images/darth-maul.jpg?raw=true",
       enemyAttackBack: 25
     }
   };
